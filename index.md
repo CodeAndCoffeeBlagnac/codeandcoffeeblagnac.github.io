@@ -1,5 +1,5 @@
 ---
-layout: leap-day
+layout: midnight
 title: Code & Coffee Blagnac GitHub project page
 ---
 
