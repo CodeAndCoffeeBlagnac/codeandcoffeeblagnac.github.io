@@ -1,4 +1,5 @@
-name: CodeAndCoffeeBlagnac
+name: "Code & Coffee Blagnac"
+author: CodeAndCoffeeBlagnac
 project-url: "https://github.com/CodeAndCoffeeBlagnac"
 markdown: redcarpet
 pygments: true

@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: leap-day
 ---
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
+<p>Page du projet : <a href="{{ page.repo-url }}">{{ page.repo-url }}</a></p>
 
 <div class="post">
 {{ content }}
