@@ -1,7 +1,7 @@
 codeandcoffeeblagnac.github.io
 ==============================
 
-The public page for CodeAndCoffeeBlagnac github projects.
+The public page for the Code & Coffee Blagnac github projects.
 
 A [jekyll](http://jekyllrb.com/) website with the "Leap Day" theme by [@michigangraham](https://twitter.com/michigangraham)
 
@@ -36,7 +36,7 @@ Updcoming changes
 
 Don't hesitate to checkout other branches :
 
- 1. You can try with the 'new-content' branch :
+ 1. You can try with the `new-content` branch :
 
   ```
   git checkout origin/new-content -b new-content
