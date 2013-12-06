@@ -3,7 +3,7 @@ codeandcoffeeblagnac.github.io
 
 The public page for the Code & Coffee Blagnac github projects.
 
-A [jekyll](http://jekyllrb.com/) website with the "Leap Day" theme by [@michigangraham](https://twitter.com/michigangraham)
+A [jekyll](http://jekyllrb.com/) website with the "Midnight" theme by [@michigangraham](https://twitter.com/michigangraham)
 
 See the result live at http://codeandcoffeeblagnac.github.io/
 
@@ -29,7 +29,7 @@ Hack
   ```
 
  4. See the result by opening a web browser to [:4000](http://localhost:4000/)
- 5. Interesting files are `index.html`, `_config.yml` and `_layout/leap-day.html`
+ 5. Interesting files are `index.html`, `_config.yml` and `_layout/midnight.html`
 
 Updcoming changes
 -----------------
