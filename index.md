@@ -5,7 +5,9 @@ title: CodeAndCoffeeBlagnac
 
 ### Bienvenue sur le site GitHub de Code & Coffee Blagnac !
 
-Ce site référence les dépôts git des kata du Code & Coffee de Blagnac.
+Ce site référence les dépôts git des sources utilisées/vues pendant ces sessions de Code & Coffee de Blagnac.
+Tous type de source apporté par les participants est le bienvenue et même encouragé.
+Les valeurs portées lors de ces sessions sont celles portées par le manifeste de l'artisanat logiciel ([Manifesto Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/))
 
 ### Organisation
 
